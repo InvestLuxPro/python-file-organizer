@@ -1,6 +1,6 @@
 # Python File Organizer
 
-A Python script that automatically organizes files in a folder by sorting them into categories such as Images, Documents, Videos, and Audio.
+A Python automation script that organizes files in a folder into categories such as Images, Documents, Videos, and Audio.
 
 ## Program Screenshot
 
@@ -16,6 +16,7 @@ A Python script that automatically organizes files in a folder by sorting them i
 ## Technologies Used
 
 - Python
+- Python 3
 - os module
 - shutil module
 
